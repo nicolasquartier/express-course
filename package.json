@@ -1,0 +1,16 @@
+{
+  "name": "express-course",
+  "version": "1.0.0",
+  "description": "0.0.1",
+  "keywords": [
+    "course",
+    "realdolmen",
+    "express",
+    "node"
+  ],
+  "author": "Nicolas Quartier",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.13.4"
+  }
+}
