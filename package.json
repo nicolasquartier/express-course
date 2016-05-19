@@ -11,6 +11,7 @@
   "author": "Nicolas Quartier",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.13.4"
+    "express": "^4.13.4",
+    "jade": "^1.11.0"
   }
 }
